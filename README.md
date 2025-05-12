@@ -9,7 +9,7 @@ Kaggle: https://www.kaggle.com/competitions/costa-rican-household-poverty-predic
 ## Project Highlights
 - Standardized features and addressed class imbalance using **SMOTE**.
 - **Feature Engineering**:
-  Created new composite features to enhance model performance (e.g. Living Conditions Index).
+  Created new composite features to enhance model performance (e.g., Living Conditions Index).
 - Focused on **recall**, especially for higher poverty levels (to minimize false negatives).
 - **Logistic Regression** performed best in terms of recall for the most vulnerable households.
 - XGBoost and Random Forest had higher overall accuracy but lower recall.
